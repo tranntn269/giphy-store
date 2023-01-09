@@ -19,7 +19,9 @@ Navigate to `http://localhost:4200/`. The application will automatically reload 
 
 ## Introduction
 
-## ![A screenshot of the Giphy store](./docs/homepage__collection.PNG)
+## ![A screenshot of the Giphy store]
+
+![homepage__collection](https://user-images.githubusercontent.com/57772425/211250416-3e929a70-03d4-42be-a50e-2fcc82faa32a.PNG)
 
 ## Features
 
@@ -56,11 +58,16 @@ Navigate to `http://localhost:4200/`. The application will automatically reload 
 
 ## Diagram
 
-![Diagram of the Giphy store](./docs/diagram.jpg)
+![Diagram of the Giphy store]
+
+![diagram](https://user-images.githubusercontent.com/57772425/211250477-1a451f18-10f6-49db-9795-7d664fafa450.jpg)
 
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Demo video
+
 
 ## Further help
 

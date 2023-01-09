@@ -15,6 +15,12 @@ Run `npm start` for a dev server. It will run those commands:
 2. "prestart:api": "ts-node server/createDb.ts" to create db.json file and init database
 3. "start:api": "ts-node server/server.ts" to run json server
 
+Account:
+- username1, pass: 123456
+- username2, pass: 123456
+- username3, pass : 123456
+or create on your own
+
 Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Introduction

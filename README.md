@@ -44,6 +44,7 @@ Navigate to `http://localhost:4200/`. The application will automatically reload 
   - Show loading spinner when searching result
   - Display a placeholder in mosaic layout when GIFs are still loading
   - Display empty page for no results
+- Add VisuallyHidden for accessibility and only show animation when prefers-reduced-motion: no-preference
 
 **Animation**
 
